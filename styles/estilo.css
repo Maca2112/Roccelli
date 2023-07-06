@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#encabezado {
+    background-color: #f7e9d0;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#menu {
+    display: inline-block;
+}
+
+body {
+    background-color: #f6a905;
+    font-family: 'roboto';
+}
+
+.marcas {
+    padding: 3%;
+}
+
+.info {
+    padding: 1% 2% 1% 2%;
+    margin: 70px;
+    width: 260px;
+    display: inline-block;
+    background-color: rgb(255, 102, 0);
+    border-radius: 8px;
+    position: relative;
+    left: 10%;
+}
+
+.info1 {
+    padding: 1% 2% 1% 2%;
+    margin: 70px;
+    width: 260px;
+    background-color: rgb(255, 102, 0);
+    border-radius: 8px;
+    position: relative;
+    left: 35%;
+}
+
+h3 {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+.galeria {
+    padding: 2%;
+}
+
+.ofi {
+    background-color: #f7e9d0;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 3% 40% 3% 40%;
+}
+
+.form {
+    display: block;
+    width: 80%;
+    margin: 2%;
+}
+
+#form {
+    padding: 5% 35% 5% 35%;
+}
+
+footer {
+    background-color: rgb(255, 102, 0);
+}
+
+#foot {
+    display: inline-block;
+    margin: 3% 10% 3% 10%;
+}
+
+/* overflow: hidden, hace que el exceso de contenido se encierre en el contenedor, y no se salga ni sobreponga con otro contenido */
