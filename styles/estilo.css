@@ -13,12 +13,16 @@ li {
     z-index: 1;
 }
 
-nav.bg-custom {
-    background-color: #f7e9d0;
+.logo {
+    margin: 0 0 0 2%;
 }
 
-#menu {
-    display: inline-block;
+nav.bg-custom {
+    background-color:chocolate;
+}
+
+.nav-item {
+    margin: 0 20px 0 20px;
 }
 
 body {
