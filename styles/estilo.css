@@ -13,6 +13,10 @@ li {
     z-index: 1;
 }
 
+nav.bg-custom {
+    background-color: #f7e9d0;
+}
+
 #menu {
     display: inline-block;
 }
