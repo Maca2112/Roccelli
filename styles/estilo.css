@@ -18,7 +18,7 @@ li {
 }
 
 nav.bg-custom {
-    background-color: #f7e9d0;
+    background-color:  #f7e9d0;
 }
 
 .nav-item {
@@ -26,7 +26,7 @@ nav.bg-custom {
 }
 
 body {
-    background-color: #f6a905;
+    background-color: #ff6600;
     font-family: 'roboto';
 }
 
@@ -39,20 +39,14 @@ body {
     margin: 70px;
     width: 260px;
     display: inline-block;
-    background-color: rgb(255, 102, 0);
+    background-color: #f6a905;
     border-radius: 8px;
     position: relative;
     left: 10%;
 }
 
 .info1 {
-    padding: 1% 2% 1% 2%;
-    margin: 70px;
-    width: 260px;
-    background-color: rgb(255, 102, 0);
-    border-radius: 8px;
-    position: relative;
-    left: 35%;
+    background-color: #f6a905;
 }
 
 h3 {
@@ -87,7 +81,7 @@ p {
 }
 
 footer {
-    background-color: rgb(255, 102, 0);
+    background-color: #f6a905;
 }
 
 #foot {
